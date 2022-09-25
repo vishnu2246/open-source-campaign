@@ -8,16 +8,16 @@ assignees: ''
 ---
 
 **Name of Proposer**
-Enter your StackUp username here.
+vishnurathod
 
 **Is your feature request related to a problem? Please describe.**
-A 2-3 sentence, clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+I'm always frustrated when i am trying to solve a problem but the i can not solve the problem correctly
 
 **Describe the solution you'd like**
-A 2-3 sentence, clear and concise description of what you want to happen.
+you can create a web page to solve a basic problem of all quest and all stackie can modified if there is new problem is fatched.
 
 **Describe alternatives you've considered**
-A 2-3 sentence, clear and concise description of any alternative solutions or features you've considered.
+create a server for only quest problem when any stackie can solve problem then update it and he get rewards also other stackie helping....
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+all other problem are normally solved by all stackies
